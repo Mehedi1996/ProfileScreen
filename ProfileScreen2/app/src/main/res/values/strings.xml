@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProfileScreen2</string>
+    <string name="name">MEHEDI HASHAN</string>
+    <string name="location">DHAKA,BANGLADESH</string>
+    <string name="developer">Full Stack Developer,Android</string>
+    <string name="rating">rating</string>
+    <string name="ratingpreview">9.8</string>
+    <string name="project">30</string>
+    <string name="projects">Projects</string>
+    <string name="protfolio">Protfolio</string>
+    <string name="hire_me">Hire me</string>
+</resources>
